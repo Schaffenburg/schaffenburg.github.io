@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Über uns
-  url: /wir/
+#- title: Über uns
+#  url: /wir/
 
 - title: Neuigkeiten
   url: /neues/
