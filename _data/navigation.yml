@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Über uns
+  url: /wir/
+
+- title: Neuigkeiten
+  url: /neues/
+
+- title: Facebook
+  url: https://fb.com/Schaffenburg.de
+
+- title: Twitter
+  url: https://twitter.com/schaffenburg.de
+
+- title: Github
+  url: http://github.com/Schaffenburg
+  
+#- title: Suche 
+#  url: /suche/
+  
+- title: Impressum
+  url: /impressum/
