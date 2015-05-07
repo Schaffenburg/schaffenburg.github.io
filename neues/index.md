@@ -8,6 +8,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
+### Nächstes Treffen 13.05.2015
+Neugierige und Interessenten herzlich eingeladen! Wir wollen uns weiter organisieren, Neuzugänge beschnuppern und beschnuppern lassen und vielleicht ist ja auch Zeit, schonmal über die eigenen Projekte zu erzählen.
+
 ### Verein gegründet!
 Die erste große Hürde ist bewältig: Am Abend des 29.4.15 wurde die Satzung des künftigen Schaffenburg e.V. von 8 Gründungsmitgliedern verabschiedet und unterzeichnet!
 
