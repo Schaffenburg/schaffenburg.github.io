@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
-### Nächstes Treffen 10.06.2015
+### Nächstes Treffen 08.07.2015
 Neugierige und Interessenten herzlich eingeladen! Wir wollen uns weiter organisieren, Neuzugänge beschnuppern und beschnuppern lassen und vielleicht ist ja auch Zeit, schonmal über die eigenen Projekte zu erzählen.
 
 ### 29.04.2015 - Verein gegründet!
