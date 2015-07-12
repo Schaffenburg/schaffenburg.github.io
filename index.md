@@ -10,5 +10,5 @@ Egal ob du einfach nur gerne mit moderner Technik spielst, bastelst, codest oder
 Unser Ziel ist es, ein Reservat für "normale Leute" wie uns aufzubauen, um eine Umgebung für den regen Erfahrungsaustausch, geselliges Miteinander und die Umsetzung von Ideen und Projekten zu schaffen.
 
 Wir treffen uns solange es noch kein eigenes Milieu für uns gibt jeden zweiten Mittwoch ab 20 Uhr in der Gaststätte Dead End, Kolbornstraße 5, Aschaffenburg (nähe Kinopolis).<br>
-__Nächstes Treffen: 08.07.15__
+__Nächstes Treffen: 22.07.15__
 
