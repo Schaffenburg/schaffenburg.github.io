@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Schaffenburg
+  name: Schaffenburg e.V.
   avatar: bio-photo.jpg
   email: start@schaffenburg.de
   disqus-shortname:
