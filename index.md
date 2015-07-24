@@ -4,11 +4,33 @@ title:
 excerpt: "Aschaffenburg braucht einen Hackerspace!"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
-Ein __Hackerspace__ (von Hacker und Space, engl. für Raum) oder Hackspace ist ein physischer, häufig offener Raum, in dem sich Hacker sowie an Wissenschaft, Technologie oder digitaler Kunst (und vielen anderen Bereichen) Interessierte treffen und austauschen können. (Quelle: [wikipedia](http://de.wikipedia.org/wiki/Hackerspace))
+__Willkommen beim Schaffenburg e. V.__
 
-Egal ob du einfach nur gerne mit moderner Technik spielst, bastelst, codest oder gar schon den schwarzen Gürtel in technischer Kreativität hast - bei uns bist du hier genau richtig!<br>
-Unser Ziel ist es, ein Reservat für "normale Leute" wie uns aufzubauen, um eine Umgebung für den regen Erfahrungsaustausch, geselliges Miteinander und die Umsetzung von Ideen und Projekten zu schaffen.
+Wir sind eine Vereinigung von technisch Interessierten aller Altersstufen aus dem Raum Aschaffenburg, die es sich zum Ziel gesetzt haben jedermann Spaß an Technik und Handwerk zu vermitteln und einen dafür geeigneten Ort und Tools zur Verfügung zu stellen und uns untereinander zu helfen.
 
-Wir treffen uns solange es noch kein eigenes Milieu für uns gibt jeden zweiten Mittwoch ab 20 Uhr in der Gaststätte Dead End, Kolbornstraße 5, Aschaffenburg (nähe Kinopolis).<br>
-__Nächstes Treffen: 22.07.15__
 
+__Unsere Ziele__
+
+Auf diese Weise möchten wir einerseits eine Brücke zwischen sich ständig ändernden Technik und dem Durchschnittsbürger bauen und für Aufklärung in den alltäglichen Fragen des digitalen Zeitalters sorgen, andererseits auch den Kontakt zwischen Anfängern und erfahrenen Machern und Bastlern fördern.
+
+Wir möchten in Aschaffenburg einen Raum zum kreativen und sicheren Umgang mit Technik schaffen. Egal ob Hobbybastler, Profi oder einfach nur Interessierte ohne Erfahrung; in unserem Verein soll jeder die Möglichkeit haben, seine Fragen, Interessen, Vorstellungen und Projekte in gemeinschaftlicher Atmosphäre zu verwirklichen und sich dabei mit den Mitgliedern auszutauschen und gegenseitig unterstützen zu können.
+
+
+__Themenbereiche__
+
+Unser Interesse an Technologien ist breit gefächert, von 3D-Druck, Amateurfunk, Analogelektronik, Audiovisuelle Medien, Beleuchtungseffekten, Computertechnik, Digitaltechnik, Holz- Metall- und Kunststoffbearbeitung, Mechanik, Modellflug über Software und Tontechnik, vieles ist vertreten, es darf gerne noch etwas dazukommen.
+
+
+__Kontakt__
+
+Haben wir Ihr Interesse geweckt oder möchten Sie uns kennenlernen?
+
+Unter unserer eMail Adresse start@schaffenburg.de sind wir für Sie erreichbar.
+
+
+__Vereinsabend__
+
+Bis wir einen geeigneten Ort für unser Vereinsheim (und Werkstatt) gefunden haben, treffen wir uns regelmäßig jeden zweiten Mittwoch um 20:00 Uhr in der Bar "Dead End" in der Kolbornstraße 5 in Aschaffenburg.
+
+
+__Achtung!__ Das nächste Treffen ist termingerecht am 05.08.2015, aber wegen Sommerpause in der Gaststsätte Hofgarten, Hofgartenstraße, AB.
