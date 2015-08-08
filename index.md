@@ -23,9 +23,9 @@ Unser Interesse an Technologien ist breit gefächert, von 3D-Druck, Amateurfunk,
 
 __Kontakt__
 
-Haben wir Ihr Interesse geweckt oder möchten Sie uns kennenlernen?
+Haben wir Dein Interesse geweckt oder möchtest Du uns kennenlernen?
 
-Unter unserer eMail Adresse start@schaffenburg.de sind wir für Sie erreichbar.
+Unter unserer eMail Adresse start@schaffenburg.de sind wir für Dich erreichbar.
 
 
 __Vereinsabend__
