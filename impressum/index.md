@@ -4,8 +4,6 @@ title: "Impressum"
 excerpt: "Aschaffenburg braucht einen Hackerspace!"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
-Impressum
-
 Dieses Impressum gilt auch für die Profile unseres Vereins auf den folgenden sozialen Netzwerken:
 
 Facebook
@@ -23,11 +21,9 @@ E-Mail: vorstand@schaffenburg.de
 
 Vertretungsberechtigte Personen
 
-Karsten Schlachter, 1. Vorsitzender
+Karsten Schlachter, 1. Vorsitzender, Spessartstr 10b, 63924 kleinheubach
 
-Hendrik Dietrich, 2. Vorsitzender
-
-Adresse s.o.
+Hendrik Dietrich, 2. Vorsitzender, Adresse s.o.
 
 
 Vereinsregister: Aschaffenburg
@@ -43,6 +39,4 @@ Derzeit nicht vorhanden, Anmeldung bei Finanzamt in Vorbereitung
 
 Verantwortlicher gemäß § 55 Abs. 2 RStV:
 
-Hendrik Dietrich
-
-Adresse s.o.
+Hendrik Dietrich, Adresse s.o.
