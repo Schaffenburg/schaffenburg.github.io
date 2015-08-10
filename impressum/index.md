@@ -21,20 +21,20 @@ E-Mail: vorstand@schaffenburg.de
 
 Vertretungsberechtigte Personen
 
-Karsten Schlachter, 1. Vorsitzender, Spessartstr 10b, 63924 kleinheubach
+Karsten Schlachter, 1. Vorsitzender, Spessartstraße 10b, 63924 Kleinheubach
 
-Hendrik Dietrich, 2. Vorsitzender, Adresse s.o.
+Hendrik Dietrich, 2. Vorsitzender, Hauptstraße 85, 63743 Obernau
 
 
 Vereinsregister: Aschaffenburg
 
 Registergericht: Amtsgericht Aschaffenburg
 
-Registernummer: VR 200548 (Bisher von Notar gemeldet, Urkunde auf Postweg)
+Registernummer: VR 200548
 
 Umsatzsteuer- oder Wirtschaftsidentifikationsnummer:
 
-Derzeit nicht vorhanden, Anmeldung bei Finanzamt in Vorbereitung
+Derzeit nicht vorhanden, Anmeldung bei Finanzamt im Gange
 
 
 Verantwortlicher gemäß § 55 Abs. 2 RStV:
