@@ -11,7 +11,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ### Nächstes Treffen 02.09.2015, "Dead End"
 
 ### 20.08.2015 - Neues Logo
-Können wir den Platzhalter durch unser eigenes Logo ersetzen. Unser "Burgwappen" orientiert sich lose am Aschaffenburger Kreiswappen. Dabei stellt es die großen Teilbereiche unserer Interessen - Elektro- und Nachrichtentechnik, Software, sowie Mechanik - dar.
+Wir können den Platzhalter durch unser eigenes Logo ersetzen. Unser "Burgwappen" orientiert sich lose am Aschaffenburger Kreiswappen. Dabei stellt es die großen Teilbereiche unserer Interessen - Elektro- und Nachrichtentechnik, Software, sowie Mechanik - dar.
 
 ### 08.07.2015 - Im Register eingetragen!
 Wir sind jetzt im Aschaffenburger Vereinsregister unter VR 200548 eingetragen und tragen damit endlich den Namenzusatz e.V.!
