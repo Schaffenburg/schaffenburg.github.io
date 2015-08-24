@@ -8,8 +8,13 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
-### Nächstes Treffen 05.08.2015
-Sommerpause im Dead End! Wir treffen uns daher in der Gaststätte "Hofgarten" (Dem Biergarten!), Hofgartenstraße, Aschaffenburg - auch um 20:00 Uhr. Neugierige und Interessenten herzlich eingeladen! Wir wollen uns weiter organisieren, Neuzugänge beschnuppern und uns beschnuppern lassen und vielleicht ist ja auch Zeit, schonmal über die eigenen Projekte zu erzählen.
+### Nächstes Treffen 02.09.2015, "Dead End"
+
+### 22.08.2015 - Gemeinnützigkeit bescheinigt
+Heute war endlich der Bescheid über unsere Gemeinnützigkeit vom Finanzamt in der Post. Dieser berechtigt uns unter anderem  Zuwendungsbestätigungen für Spenden auszustellen, die dann von der Steuer abgesetzt werden können.
+
+### 20.08.2015 - Neues Logo
+Wir können den Platzhalter durch unser eigenes Logo ersetzen. Unser "Burgwappen" orientiert sich lose am Aschaffenburger Kreiswappen. Dabei stellt es die großen Teilbereiche unserer Interessen - Elektro- und Nachrichtentechnik, Software, sowie Mechanik - dar.
 
 ### 08.07.2015 - Im Register eingetragen!
 Wir sind jetzt im Aschaffenburger Vereinsregister unter VR 200548 eingetragen und tragen damit endlich den Namenzusatz e.V.!
