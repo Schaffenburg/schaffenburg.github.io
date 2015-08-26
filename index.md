@@ -25,7 +25,7 @@ __Kontakt__
 
 Haben wir Dein Interesse geweckt oder möchtest Du uns kennenlernen?
 
-Unter unserer eMail Adresse start@schaffenburg.de sind wir für Dich erreichbar.
+Unter unserer eMail Adresse <u>start@schaffenburg.de</u> sind wir für Dich erreichbar.
 
 
 __Vereinsabend__
