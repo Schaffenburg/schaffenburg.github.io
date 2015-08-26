@@ -13,23 +13,20 @@ Twitter
 
 Angaben gemäß § 5 TMG
 
-Schaffenburg e.V. Hauptstraße 85
+Kontakt: vorstand@schaffenburg.de
 
+Schaffenburg e.V. 
+Hauptstraße 85
 63743 Obernau
-
-E-Mail: vorstand@schaffenburg.de
 
 Vertretungsberechtigte Personen
 
 Karsten Schlachter, 1. Vorsitzender, Spessartstraße 10b, 63924 Kleinheubach
-
 Hendrik Dietrich, 2. Vorsitzender, Hauptstraße 85, 63743 Obernau
 
 
 Vereinsregister: Aschaffenburg
-
 Registergericht: Amtsgericht Aschaffenburg
-
 Registernummer: VR 200548
 
 Umsatzsteuer- oder Wirtschaftsidentifikationsnummer:
