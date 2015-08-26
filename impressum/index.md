@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 <h1>Impressum</h1>
 
-<b>Kontakt: start@schaffenburg.de</b>
+Kontakt: <u>start@schaffenburg.de</u>
 
 Schaffenburg e.V. <br>
 Hauptstraße 85<br>
@@ -16,7 +16,8 @@ Hauptstraße 85<br>
 
 
 Vertretungsberechtigte Personen / Vorstand
-E-Mail: vorstand@schaffenburg.de
+
+E-Mail: vorstand@schaffenburg.de<br>
 Karsten Schlachter, 1. Vorsitzender, Spessartstraße 10b, 63924 Kleinheubach<br>
 Hendrik Dietrich, 2. Vorsitzender, Hauptstraße 85, 63743 Obernau
 
