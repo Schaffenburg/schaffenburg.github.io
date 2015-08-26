@@ -4,13 +4,6 @@ title: "Impressum"
 excerpt: "Aschaffenburg braucht einen Hackerspace!"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
-Dieses Impressum gilt auch für die Profile unseres Vereins auf den folgenden sozialen Netzwerken:
-
-Facebook
-
-Twitter
-
-
 Angaben gemäß § 5 TMG
 
 Kontakt: vorstand@schaffenburg.de
@@ -37,3 +30,11 @@ Derzeit nicht vorhanden, Anmeldung bei Finanzamt im Gange
 Verantwortlicher gemäß § 55 Abs. 2 RStV:
 
 Hendrik Dietrich, Adresse s.o.
+
+
+
+Dieses Impressum gilt auch für die Profile unseres Vereins auf den folgenden sozialen Netzwerken:
+
+Facebook
+
+Twitter
