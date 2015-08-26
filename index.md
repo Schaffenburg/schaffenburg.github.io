@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 __Willkommen beim Schaffenburg e. V.__
 
-Wir sind eine Vereinigung von technisch Interessierten aller Altersstufen aus dem Raum Aschaffenburg, die es sich zum Ziel gesetzt haben jedermann Spaß an Technik und Handwerk zu vermitteln, einen dafür geeigneten Ort und Werkzeuge zur Verfügung zu stellen und uns gegenseitig zu helfen.
+Wir sind eine Vereinigung von technisch Interessierten aller Altersstufen aus dem Raum Aschaffenburg, die es sich zum Ziel gesetzt haben jedermann Spaß an Technik und Handwerk zu vermitteln, einen dafür geeigneten Ort und Werkzeuge zur Verfügung zu stellen und uns gegenseitig mit Rat und Tat zu unterstützen.
 
 
 __Unsere Ziele__
