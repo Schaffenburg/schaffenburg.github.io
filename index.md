@@ -33,4 +33,4 @@ __Vereinsabend__
 Bis wir einen geeigneten Ort für unser Vereinsheim (und Werkstatt) gefunden haben, treffen wir uns regelmäßig jeden zweiten Mittwoch um 20:00 Uhr in der Bar "Dead End" in der Kolbornstraße 5 in Aschaffenburg.
 
 
-Das nächste Treffen findet am 02.09.2015 statt.
+Das nächste Treffen findet am 16.09.2015 statt.
