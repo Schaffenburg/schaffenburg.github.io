@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
-### Nächstes Treffen 02.09.2015, "Dead End"
+### Nächstes Treffen 16.09.2015, "Dead End"
 
 ### 22.08.2015 - Gemeinnützigkeit bescheinigt
 Heute war endlich der Bescheid über unsere Gemeinnützigkeit vom Finanzamt in der Post. Dieser berechtigt uns unter anderem  Zuwendungsbestätigungen für Spenden auszustellen, die dann von der Steuer abgesetzt werden können.
