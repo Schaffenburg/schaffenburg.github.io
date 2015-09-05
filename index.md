@@ -34,3 +34,4 @@ Bis wir einen geeigneten Ort für unser Vereinsheim (und Werkstatt) gefunden hab
 
 
 Das nächste Treffen findet am 16.09.2015 statt.
+
