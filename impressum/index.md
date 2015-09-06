@@ -14,12 +14,6 @@ Schaffenburg e.V. <br>
 Hauptstraße 85<br>
 63743 Obernau
 
-Kontoverbindung<br>
-Schaffenburg e.V.<br>
-DE79795500000011974599<br>
-Sparkasse Aschaffenburg<br>
-
-
 Vertretungsberechtigte Personen / Vorstand
 
 E-Mail: vorstand@schaffenburg.de<br>
