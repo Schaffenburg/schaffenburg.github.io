@@ -13,6 +13,12 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ### 22.08.2015 - Gemeinnützigkeit bescheinigt
 Heute war endlich der Bescheid über unsere Gemeinnützigkeit vom Finanzamt in der Post. Dieser berechtigt uns unter anderem  Zuwendungsbestätigungen für Spenden auszustellen, die dann von der Steuer abgesetzt werden können.
 
+Unsere Kontodaten:
+Schaffenburg e.V.
+DE79795500000011974599
+Sparkasse Aschaffenburg
+
+
 ### 20.08.2015 - Neues Logo
 Wir können den Platzhalter durch unser eigenes Logo ersetzen. Unser "Burgwappen" orientiert sich lose am Aschaffenburger Kreiswappen. Dabei stellt es die großen Teilbereiche unserer Interessen - Elektro- und Nachrichtentechnik, Software, sowie Mechanik - dar.
 
