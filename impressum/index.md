@@ -8,11 +8,16 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 <h1>Impressum</h1>
 
-Kontakt: <u>start@schaffenburg.de</u>
+Kontakt: <u>kontakt@schaffenburg.de</u>
 
 Schaffenburg e.V. <br>
 Hauptstraße 85<br>
 63743 Obernau
+
+Kontoverbindung<br>
+Schaffenburg e.V.<br>
+DE79795500000011974599<br>
+Sparkasse Aschaffenburg<br>
 
 
 Vertretungsberechtigte Personen / Vorstand
@@ -27,9 +32,7 @@ Registergericht: Amtsgericht Aschaffenburg<br>
 Registernummer: VR 200548
 
 Umsatzsteuer- oder Wirtschaftsidentifikationsnummer:
-
-Derzeit nicht vorhanden, Anmeldung bei Finanzamt im Gange
-
+Folgt
 
 Verantwortlicher gemäß § 55 Abs. 2 RStV:
 
