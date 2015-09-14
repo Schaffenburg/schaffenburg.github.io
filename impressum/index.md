@@ -8,18 +8,34 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 <h1>Impressum</h1>
 
-Kontakt: <u>kontakt@schaffenburg.de</u>
+<h2>Kontakt</h2>
+
+<u>kontakt@schaffenburg.de</u>
 
 Schaffenburg e.V. <br>
 Hauptstraße 85<br>
 63743 Obernau
 
-Vertretungsberechtigte Personen / Vorstand
+<h2>Spenden</h2>
+**Paypal**: 
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="LW3JBK8ASRH28">
+<input type="image" src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Jetzt Spenden">
+<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+**Bankverbindung**:<br>
+Schaffenburg e.V.<br>
+DE79795500000011974599<br>
+Sparkasse Aschaffenburg
+
+<h2>Vertretungsberechtigte Personen / Vorstand</h2>
 
 E-Mail: vorstand@schaffenburg.de<br>
 Karsten Schlachter, 1. Vorsitzender, Spessartstraße 10b, 63924 Kleinheubach<br>
 Hendrik Dietrich, 2. Vorsitzender, Hauptstraße 85, 63743 Obernau
-
 
 Vereinsregister: Aschaffenburg<br>
 Registergericht: Amtsgericht Aschaffenburg<br>
