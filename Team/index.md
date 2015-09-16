@@ -16,6 +16,7 @@ Kontakt: <b>k.schlachter@schaffenburg.de</b>
 
 <h2>Hendrik Dietrich(2. Vorsitzender)</h2>
 
+Funkamateur mit dem Rufzeichen DG3HDA, macht auch beruflich etwas Elektronik. 
 
 Kontakt: <b>h.dietrich@schaffenburg.de</b>
 
@@ -28,6 +29,5 @@ Kontakt: <b>s.ackermann@schaffenburg.de</b>
 
 Emailadresse folgt
 
-
-
 E-Mail für alle: vorstand@schaffenburg.de<br>
+
