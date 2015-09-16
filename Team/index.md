@@ -22,7 +22,7 @@ Kontakt: <b>h.dietrich@schaffenburg.de</b>
 
 <h2>Stefan Ackermann(Schatzmeister)</h2>
 
-Emailadresse folgt
+Kontakt: <b>s.ackermann@schaffenburg.de</b>
 
 <h2> Jonas Giesecke(Schriftführer)</h2>
 
