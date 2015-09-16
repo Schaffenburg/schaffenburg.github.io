@@ -5,18 +5,16 @@
 
 - title: Neuigkeiten
   url: /neues/
-
-- title: Facebook
-  url: https://fb.com/Schaffenburg.de
-
-- title: Twitter
-  url: https://twitter.com/schaffenburg_de
-
-- title: Github
-  url: http://github.com/Schaffenburg
   
-- title: IRC
-  url: /irc/
+- title: Team
+  url: /Team/
+  
+- title: Projekte
+  url: /Projekte/
+  
+- title: Links
+  url: /Links/
+  
   
 #- title: Suche 
 #  url: /suche/
