@@ -33,5 +33,3 @@ __Vereinsabend__
 Bis wir einen geeigneten Ort gefunden haben, treffen wir uns regelmäßig jeden zweiten Mittwoch (gerade Kalenderwochen) um 20:00 Uhr in der Bar "Dead End" in der Kolbornstraße 5 in Aschaffenburg. Bitte unter Neuigkeiten nachsehen ob es Verschiebungen oder Änderungen gibt!
 
 Das nächste Treffen findet am 30.09.2015 statt.
-
-<!-- etwas um nen page regen zu triggeren um webhook zu testen -->
