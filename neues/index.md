@@ -9,6 +9,13 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ### <center>Stand der Dinge</center>
 
 ### Nächstes Treffen 30.09.2015, "Dead End"
+Regulärer Stammtisch. Große Neuigkeit: Wir haben Räume gefunden und dem Start des physikalischen Space steht nicht mehr viel im Wege!
+
+### 18.9.2015 Störung der Website
+Für manche Nutzer kam es in der Vergangenheit zu Störungen der Website. Die sollten jetzt behoben sein.
+
+### PayPal Spendenbutton in Betrieb
+Im Impressum unserer Website ist jetzt ein PayPal Spendenbutton zu finden. Schaffenburg sagt im Voraus <b>Danke!</b>
 
 ### 22.08.2015 - Gemeinnützigkeit bescheinigt
 Heute war endlich der Bescheid über unsere Gemeinnützigkeit vom Finanzamt in der Post. Dieser berechtigt uns unter anderem  Zuwendungsbestätigungen für Spenden auszustellen, die dann von der Steuer abgesetzt werden können.
