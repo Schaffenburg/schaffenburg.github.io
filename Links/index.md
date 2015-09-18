@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 
+noheader: true
+noimage: true
 excerpt: "Aschaffenburg braucht einen Makerspace!"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
