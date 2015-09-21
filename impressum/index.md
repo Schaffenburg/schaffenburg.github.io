@@ -26,11 +26,6 @@ Hauptstraße 85<br>
 <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-**Bankverbindung**:<br>
-Schaffenburg e.V.<br>
-DE79795500000011974599<br>
-Sparkasse Aschaffenburg
-
 <h2>Vertretungsberechtigte Personen / Vorstand</h2>
 
 E-Mail: vorstand@schaffenburg.de<br>
