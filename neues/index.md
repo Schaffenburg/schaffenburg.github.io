@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
-### Nächstes Treffen 30.09.2015, "Dead End"
+### Nächstes Treffen 14.10.2015, "Dead End"
 Regulärer Stammtisch. 
 
 ### 18.9.2015 Störung der Website
