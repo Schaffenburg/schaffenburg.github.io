@@ -8,8 +8,16 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
-### Nächstes Treffen 14.10.2015, "Dead End"
-Regulärer Stammtisch. 
+###Die Termine der nächsten Treffen
+
+* 28.10.2015 - Stammtisch, Dead End
+* 11.11.2015 - Stammtisch, vsl. im eigenen Space in Damm
+* 25.11.2015 - Stammtisch im eigenen Space in Damm
+* 09.12.2015 - Stammtisch im eigenen Space in Damm
+* vsl. Jan - Einweihungsfeier im Space in Damm
+
+###Physikalischer Space
+Wir werden im November unseren physikalischen Space beziehen können. 
 
 ### 18.9.2015 Störung der Website
 Für manche Nutzer kam es in der Vergangenheit zu Störungen der Website. Die sollten jetzt behoben sein.
