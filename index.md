@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-excerpt: "Aschaffenburg braucht einen Hackerspace!"
+excerpt: "Aschaffenburg braucht einen Makerspace!"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 __Willkommen beim Schaffenburg e. V.__
@@ -30,6 +30,14 @@ Unter unserer eMail Adresse <b>kontakt@schaffenburg.de</b> sind wir für Dich er
 
 __Vereinsabend__
 
-Bis wir einen geeigneten Ort gefunden haben, treffen wir uns regelmäßig jeden zweiten Mittwoch (gerade Kalenderwochen) um 20:00 Uhr in der Bar "Dead End" in der Kolbornstraße 5 in Aschaffenburg. Bitte unter Neuigkeiten nachsehen ob es Verschiebungen oder Änderungen gibt!
+Bis wir in unseren eigenen Space einziehen treffen wir uns regelmäßig jeden zweiten Mittwoch (gerade Kalenderwochen) um 20:00 Uhr in der Bar "Dead End" in der Kolbornstraße 5 in Aschaffenburg. Bitte unter Neuigkeiten nachsehen ob es Verschiebungen oder Änderungen gibt!
 
-Das nächste Treffen findet am 14.10.2015 statt.
+Die Termine der nächsten Treffen:
+
+* 28.10.2015 - Stammtisch, Dead End
+* 11.11.2015 - Stammtisch, vsl. im eigenen Space in Damm
+* 25.11.2015 - Stammtisch im eigenen Space in Damm
+* 09.12.2015 - Stammtisch im eigenen Space in Damm
+* vsl. Jan   - Einweihungsfeier im Space in Damm
+
+
