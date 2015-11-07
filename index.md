@@ -34,10 +34,10 @@ Bis wir in unseren eigenen Space einziehen treffen wir uns regelmäßig jeden zw
 
 Die Termine der nächsten Treffen:
 
-* 28.10.2015 - Stammtisch, Dead End
-* 11.11.2015 - Stammtisch, vsl. im eigenen Space in Damm
-* 25.11.2015 - Stammtisch im eigenen Space in Damm
-* 09.12.2015 - Stammtisch im eigenen Space in Damm
-* vsl. Jan   - Einweihungsfeier im Space in Damm
+
+* 11.11.2015 - Open Space in der Knodestraße 3, 63741 Damm
+* 25.11.2015 - Open Space in der Knodestraße 3, 63741 Damm
+* 09.12.2015 - Open Space in der Knodestraße 3, 63741 Damm
+* vsl. Februar 2016   - Einweihungsfeier im Space in Damm
 
 
