@@ -29,7 +29,7 @@ Hauptstraße 85<br>
 <h2>Vertretungsberechtigte Personen / Vorstand</h2>
 
 E-Mail: vorstand@schaffenburg.de<br>
-Karsten Schlachter, 1. Vorsitzender, Spessartstraße 10b, 63924 Kleinheubach<br>
+Karsten Schlachter, 1. Vorsitzender, Würzburger Straße 105, 63743 Aschaffenburg<br>
 Hendrik Dietrich, 2. Vorsitzender, Hauptstraße 85, 63743 Obernau
 
 Vereinsregister: Aschaffenburg<br>
