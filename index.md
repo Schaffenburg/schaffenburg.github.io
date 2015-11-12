@@ -33,8 +33,8 @@ Ein für Interessenten offener Vereinsabend findet regelmäßig jeden zweiten Mi
 
 Die Termine der nächsten Treffen:
 
-* 25.11.2015 - Open Space in der Knodestraße 3, 63741 Damm
-* 09.12.2015 - Open Space in der Knodestraße 3, 63741 Damm
+* 25.11.2015 - Stammtisch im Space in der Knodestraße 3, 63741 Damm
+* 09.12.2015 - Stammtisch im Space in der Knodestraße 3, 63741 Damm
 * vsl. Februar 2016   - Einweihungsfeier im Space in Damm
 
 
