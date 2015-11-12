@@ -10,7 +10,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 ### Die Termine der nächsten Treffen
 
-* 11.11.2015 - Stammtisch im eigenen Space in Damm
 * 25.11.2015 - Stammtisch im eigenen Space in Damm
 * 09.12.2015 - Stammtisch im eigenen Space in Damm
 * vsl. Feb - Einweihungsfeier im Space in Damm
