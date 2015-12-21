@@ -16,9 +16,9 @@ $(function(){
       if($.trim(data)=="offen"){
         sColor="green";
         sText="Space open";
-        sTitle="Der Space ist gerade offen - schau doch mal vorbei!" id="spaceState";
+        sTitle="Der Space ist gerade offen - schau doch mal vorbei!";
       }
-      var joStatus=$('<span style="display: inline;margin-left: auto;margin-right: auto;padding:0 25px;margin-top:10px;position: relative;border: 1px solid '+sColor+';border-radius: 10px;text-align:center;color:white;background-color:'+sColor+';font-size: 0.9em;" title="'+sTitle+'"></span>');
+      var joStatus=$('<span style="display: inline;margin-left: auto;margin-right: auto;padding:0 25px;margin-top:10px;position: relative;border: 1px solid '+sColor+';border-radius: 10px;text-align:center;color:white;background-color:'+sColor+';font-size: 0.9em;" title="'+sTitle+'" id="spaceState"></span>');
       joStatus.html(sText);
       $(".masthead > .wrap").append(joStatus);
   });
