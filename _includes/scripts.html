@@ -5,6 +5,24 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
+//space status anzeige
+<script>
+$(function(){
+  $.get( "/spacestatus/", function( data ) {
+
+      var sColor="red";
+      var sText="Space closed";
+      if($.trim(data)=="offen"){
+        sColor="green";
+        sText="Space open";
+      }
+      var joStatus=$('<span style="display: inline;margin-left: auto;margin-right: auto;padding:0 25px;margin-top:10px;position: relative;border: 1px solid '+sColor+';border-radius: 10px;text-align:center;color:white;background-color:'+sColor+';font-size: 0.9em;" title="Der Space ist gerade offen - schau doch mal vorbei!" id="spaceState"></span>');
+      joStatus.html(sText);
+      $(".masthead > .wrap").append(joStatus);
+  });
+});
+</script>
+
 
 {% if site.owner.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
