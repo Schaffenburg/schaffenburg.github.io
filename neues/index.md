@@ -11,8 +11,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ## Die Termine der nächsten Treffen
 
 
-* 22.12.2015 - Open Space und Weihnachtsfeier
-* vsl. Feb - Einweihungsfeier im Space in Damm
+* immer dienstags - Open Space
+* 27.02.16 Einweihungsfeier im Space in Damm
 
 ### 22.12.2015 Open Space und Weihnachtsfeier
 Lassen sich Frickeln und Weihnachten verbinden? Wir finden: Ja! Ab 20 Uhr im Space in der Knodestraße 3.
