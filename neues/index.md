@@ -8,21 +8,21 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
-### Die Termine der nächsten Treffen
+## Die Termine der nächsten Treffen
 
 
-* 22.12.2015 - Open Space und Weihnachtsfeier
-* vsl. Feb - Einweihungsfeier im Space in Damm
+* immer dienstags - Open Space
+* 27.02.16 Einweihungsfeier im Space in Damm
 
 ### 22.12.2015 Open Space und Weihnachtsfeier
 Lassen sich Frickeln und Weihnachten verbinden? Wir finden: Ja! Ab 20 Uhr im Space in der Knodestraße 3.
 
 
 ### 1.11.2015 Space!
-Die Renovierungsarbeiten in unserem Space haben begonnen! Wir haben derzeit ca. 50m² in dem Bürogebäude in der Knodestraße 3 in Damm. Der Vereinsabend am 11.11. kann schon dort stattfinden. 
+Die Renovierungsarbeiten in unserem Space haben begonnen! Wir haben derzeit ca. 50m² in dem Bürogebäude in der Knodestraße 3 in Damm. Der Vereinsabend am 11.11. kann schon dort stattfinden.
 
 ### 22.10.2015 Besuch beim Oberbürgermeister Klaus Herzog
-Der Aschaffenburger Oberbürgermeister Klaus Herzog nahm sich die Zeit, zwei Vertreter unseres Vereins für ein ausgiebiges und freundliches Gespräch zu empfangen. 
+Der Aschaffenburger Oberbürgermeister Klaus Herzog nahm sich die Zeit, zwei Vertreter unseres Vereins für ein ausgiebiges und freundliches Gespräch zu empfangen.
 
 ### 18.9.2015 Störung der Website
 Für manche Nutzer kam es in der Vergangenheit zu Störungen der Website. Die sollten jetzt behoben sein.
