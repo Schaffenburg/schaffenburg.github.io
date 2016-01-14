@@ -14,8 +14,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 * 03.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
 * 17.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
 
-Pauschalangebote: Open Space, jeden Dienstag ab etwa 20 Uhr
-vsl. Februar 2016 - Einweihungsfeier im Space in Damm
+* Open Space, jeden Dienstag ab etwa 20 Uhr
+* vsl. Februar 2016 - Einweihungsfeier im Space in Damm
 
 ### 22.12.2015 Open Space und Weihnachtsfeier
 Lassen sich Frickeln und Weihnachten verbinden? Wir finden: Ja! Ab 20 Uhr im Space in der Knodestraße 3.
