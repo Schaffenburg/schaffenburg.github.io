@@ -4,6 +4,19 @@ title:
 excerpt: "Aschaffenburg braucht einen Makerspace!"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
+
+__Eilmeldung: Schaffenburg lädt ein zur Einweihungsfeier: 27.2.2016__
+
+Der Aschaffenburger Makerspace lädt ein zur Einweihungsfeier 
+
+Wann? am 27.02.2016 von 12-21 Uhr
+Wo? Knodestraße 3 - 63741 Aschaffenburg-Damm
+Ist für Verpflegung gesorgt? Ja
+
+Jeder ist herzlich Willkommen. Wir freuen uns auf euer zahlreiches Erscheinen.
+
+Und nun zurück zum Hauptprogramm...
+
 __Willkommen beim Schaffenburg e. V.__
 
 Wir sind eine Vereinigung von technisch Interessierten aller Altersstufen aus dem Raum Aschaffenburg, die es sich zum Ziel gesetzt haben jedermann Spaß an Technik und Handwerk zu vermitteln, einen dafür geeigneten Ort und Werkzeuge zur Verfügung zu stellen und uns gegenseitig mit Rat und Tat zu unterstützen.
@@ -33,10 +46,9 @@ Ein für Interessenten offener Vereinsabend findet regelmäßig jeden zweiten Mi
 
 Die Termine der nächsten Treffen:
 
-* 20.01.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
-* 03.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
-* 17.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
+
 * Open Space, jeden Dienstag ab etwa 20 Uhr
-* vsl. Februar 2016   - Einweihungsfeier im Space in Damm
+* 17.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
+* 27.02.2016 - Einweihungsfeier im Space in Damm
 
 
