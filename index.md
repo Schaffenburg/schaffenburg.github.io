@@ -10,7 +10,9 @@ __Eilmeldung: Schaffenburg lädt ein zur Einweihungsfeier: 27.2.2016__
 Der Aschaffenburger Makerspace lädt ein zur Einweihungsfeier 
 
 Wann? am 27.02.2016 von 12-21 Uhr
+
 Wo? Knodestraße 3 - 63741 Aschaffenburg-Damm
+
 Ist für Verpflegung gesorgt? Ja
 
 Jeder ist herzlich Willkommen. Wir freuen uns auf euer zahlreiches Erscheinen.
