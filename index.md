@@ -7,13 +7,13 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 __Eilmeldung: Schaffenburg lädt ein zur Einweihungsfeier: 27.2.2016__
 
-Der Aschaffenburger Makerspace lädt ein zur Einweihungsfeier 
+_Der Aschaffenburger Makerspace lädt ein zur Einweihungsfeier_
 
-Wann? am 27.02.2016 von 12-21 Uhr
+_Wann?_ am 27.02.2016 von 12-21 Uhr
 
-Wo? Knodestraße 3 - 63741 Aschaffenburg-Damm
+_Wo?_ Knodestraße 3 - 63741 Aschaffenburg-Damm
 
-Ist für Verpflegung gesorgt? Ja
+_Ist für Verpflegung gesorgt?_ Ja
 
 Jeder ist herzlich Willkommen. Wir freuen uns auf euer zahlreiches Erscheinen.
 
@@ -48,9 +48,9 @@ Ein für Interessenten offener Vereinsabend findet regelmäßig jeden zweiten Mi
 
 Die Termine der nächsten Treffen:
 
-
 * Open Space, jeden Dienstag ab etwa 20 Uhr
-* 17.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
 * 27.02.2016 - Einweihungsfeier im Space in Damm
+* 02.03.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
+* 16.03.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
 
 
