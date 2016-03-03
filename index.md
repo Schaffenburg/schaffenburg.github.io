@@ -5,20 +5,6 @@ excerpt: "Aschaffenburg braucht einen Makerspace!"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-__Eilmeldung: Schaffenburg lädt ein zur Einweihungsfeier: 27.2.2016__
-
-_Der Aschaffenburger Makerspace lädt ein zur Einweihungsfeier_
-
-_Wann?_ am 27.02.2016 von 12-21 Uhr
-
-_Wo?_ Knodestraße 3 - 63741 Aschaffenburg-Damm
-
-_Ist für Verpflegung gesorgt?_ Ja
-
-Jeder ist herzlich Willkommen. Wir freuen uns auf euer zahlreiches Erscheinen.
-
-Und nun zurück zum Hauptprogramm...
-
 __Willkommen beim Schaffenburg e. V.__
 
 Wir sind eine Vereinigung von technisch Interessierten aller Altersstufen aus dem Raum Aschaffenburg, die es sich zum Ziel gesetzt haben jedermann Spaß an Technik und Handwerk zu vermitteln, einen dafür geeigneten Ort und Werkzeuge zur Verfügung zu stellen und uns gegenseitig mit Rat und Tat zu unterstützen.
