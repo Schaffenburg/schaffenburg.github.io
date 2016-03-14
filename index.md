@@ -7,36 +7,25 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 __Willkommen beim Schaffenburg e. V.__
 
-Wir sind eine Vereinigung von technisch Interessierten aller Altersstufen aus dem Raum Aschaffenburg, die es sich zum Ziel gesetzt haben jedermann Spaß an Technik und Handwerk zu vermitteln, einen dafür geeigneten Ort und Werkzeuge zur Verfügung zu stellen und uns gegenseitig mit Rat und Tat zu unterstützen.
+Wir sind ein Zusammenschluss von technikbegeisterten Menschen, die zusammen in (A)schaffenburg einen Ort schaffen, der genau dies bietet: Platz und Werkzeug zum Arbeiten, motivierte Menschen mit Know-How, kreative Ideen und Inspiration.
+Kurz gesagt: Raum für alle, die etwas machen wollen - ein Makerspace! <a href="https://schaffenburg.de/Verein/">Mehr zum Verein hier...</a>
 
+__Themen__
 
-__Unsere Ziele__
+Unser Interesse an Technologien ist breit gefächert, von 3D-Druck, Amateurfunk, Analogelektronik, Audiovisuelle Medien, Beleuchtungseffekten, Computertechnik, Digitaltechnik, Holz- Metall- und Kunststoffbearbeitung, Photographie und Filmentwicklung, Mechanik, Modellflug über Software und Tontechnik. Wir sind offen für neues! <a href="http://schaffenburg.org/">Mehr über die Projekte und Aktionen hier...</a>
 
-Auf diese Weise wollen wir einerseits eine Brücke zwischen sich ständig ändernden Technik und dem Durchschnittsbürger bauen. So möchten wir für Aufklärung in den alltäglichen Fragen des digitalen Zeitalters sorgen, andererseits auch den Kontakt zwischen Anfängern und erfahrenen Machern und Bastlern fördern.
+__Aktion__
 
-Wir haben in Aschaffenburg einen Raum zum kreativen und sicheren Umgang mit Technik geschaffen. Egal ob Hobbybastler, Profi oder einfach nur Interessierte ohne Erfahrung; in unserem Verein soll jeder die Möglichkeit haben, seine Vorhaben in gemeinschaftlicher Atmosphäre zu verwirklichen und sich dabei mit den Mitgliedern auszutauschen und gegenseitig unterstützen zu können.
+Feste Termine:
 
+Open Space jeden Dienstag ab 20 Uhr: Reinschnuppern, zuschauen, ausprobieren!
 
-__Themenbereiche__
+Seriöser Vereinsabend jeden zweiten Mittwoch (gerade KW) um 20:00 Uhr!
 
-Unser Interesse an Technologien ist breit gefächert, von 3D-Druck, Amateurfunk, Analogelektronik, Audiovisuelle Medien, Beleuchtungseffekten, Computertechnik, Digitaltechnik, Holz- Metall- und Kunststoffbearbeitung, Mechanik, Modellflug über Software und Tontechnik, vieles ist vertreten, es darf gerne noch etwas dazukommen.
+Das Spielezimmer - Spielerunde jeden Donnerstagabend ab 21 Uhr!
 
+Weitere Termine finden sich im <a href="https://teamup.com/ks2d3e218f747a77d9">Kalender</a> !
 
 __Kontakt__
 
-Haben wir Dein Interesse geweckt oder möchtest Du uns kennenlernen?
-Dazu bietet sich der Vereinsabend an. Unter unserer eMail Adresse <b>kontakt@schaffenburg.de</b> sind wir für Dich erreichbar.
-
-
-__Vereinsabend__
-
-Ein für Interessenten offener Vereinsabend findet regelmäßig jeden zweiten Mittwoch (gerade Kalenderwochen) um 20:00 Uhr in der Knodestraße 3 in Aschaffenburg-Damm statt. Bitte unter Neuigkeiten nachsehen ob es Verschiebungen oder Änderungen gibt!
-
-Die Termine der nächsten Treffen:
-
-* Open Space, jeden Dienstag ab etwa 20 Uhr
-* 27.02.2016 - Einweihungsfeier im Space in Damm
-* 02.03.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
-* 16.03.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
-
-
+Haben wir Dein Interesse geweckt oder möchtest Du uns kennenlernen? Dazu bietet sich der Vereinsabend an. Unter unserer eMail Adresse kontakt@schaffenburg.de sind wir für Dich erreichbar.
