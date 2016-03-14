@@ -18,5 +18,15 @@ Hier möchten wir ein paar Projekte von Mitgliedern vorstellen, an denen gearbei
 * [Grill](https://schaffenburg.org/Grill)
 * [Improvisiertes Banana Pi Gehäuse](https://schaffenburg.org/Improvisiertes_Banana_Pi_Geh%C3%A4use)
 * [Petroleumlampen und -Öfen](https://schaffenburg.org/Erd%C3%B6lvernichter)
+* [MediaServer](https://schaffenburg.org/Projekt:Entertainment)
+* [MagicMirror](https://schaffenburg.org/Projekt:MagicMirror)
+* [3D Drucker](https://schaffenburg.org/Projekt:MagicMirror)
+* [Multikopter](https://schaffenburg.org/Multikopter)
+* [Portabel Amateurfunkstation im Alukoffer](https://schaffenburg.org/Portabel_Amateurfunkstation_im_Alukoffer)
+* [Grill](https://schaffenburg.org/Grill)
+* [Serviceroboter SchaffBot](https://schaffenburg.org/Projekt:Schaffbot)
+* [Kameratechnik der 60er](https://schaffenburg.org/Kameratechnik_der_60er)
+* [Groundplaneantenne für 70cm Amateurfunk](https://schaffenburg.org/Projekt:Groundplane_f%C3%BCr_70cm)
+
 
 Genauere Beschreibungen erhaltet ihr wenn ihr das jeweilige Projekt anklickt.
