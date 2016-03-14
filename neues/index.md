@@ -8,14 +8,18 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 ### <center>Stand der Dinge</center>
 
-## Die Termine der nächsten Treffen
+### 11.03.2016 Meldung über Besuch von Frau Andrea Lindholz online
+Frau Andrea Lindholz (MdB) hat auf Ihrer Website einen Bericht über uns veröffentlicht! <a href="http://www.lindholz.de/infothek/aktuelles/1465-treffen-schaffen-teilen.html">Zur Meldung</a>
 
-* 20.01.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
-* 03.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
-* 17.02.2016 - Stammtisch in der Knodestraße 3, 63741 Damm
+### 07.03.2016 Besuch der Bundestagsabgeordneten Andrea Lindholz (CSU)
+Hoher Besuch bei Schaffenburg e.V. Die Bundestagsabgeordnete Andrea Lindholz besuchte uns, um sich über unseren Verein zu informieren.
 
-* Open Space, jeden Dienstag ab etwa 20 Uhr
-* vsl. Februar 2016 - Einweihungsfeier im Space in Damm
+### 27.02.2016 Einweihungsfeier
+Wir haben geplant, vorbereitet und gefiebert - nun war der große Tag!
+
+Unsere Einweihungsfeier war ein Erfolg. Viele neugierige Menschen strömten in unser Vereinsheim um uns kennenzulernen.
+Als Ehrengäste besuchten uns der Aschaffenburger Oberbürgermeister, Herr Klaus Herzog, und von der Hochschule Aschaffenburg Prof. Dr.-Ing. Ulrich Bochtler. Wir können neue Mitglieder begrüßen und möchten uns für die eingegangenen Spenden und das Interesse bedanken!
+
 
 ### 22.12.2015 Open Space und Weihnachtsfeier
 Lassen sich Frickeln und Weihnachten verbinden? Wir finden: Ja! Ab 20 Uhr im Space in der Knodestraße 3.
