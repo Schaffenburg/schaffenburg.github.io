@@ -18,13 +18,15 @@ __Aktion__
 
 Feste Termine:
 
-Open Space jeden Dienstag ab 20 Uhr: Reinschnuppern, zuschauen, ausprobieren!
+Open Space jeden Dienstag ab 20:00 Uhr: Reinschnuppern, zuschauen, ausprobieren!
 
 Seriöser Vereinsabend jeden zweiten Mittwoch (gerade KW) um 20:00 Uhr!
 
-Das Spielezimmer - Spielerunde jeden Donnerstagabend ab 21 Uhr!
+Das Spielezimmer - Spielerunde jeden Donnerstagabend ab 21:00 Uhr!
 
-Weitere Termine finden sich im <a href="https://teamup.com/ks2d3e218f747a77d9">Kalender</a> !
+Linux User Group Aschaffenburg - jeden ersten Sonntag im Monat ab 19:00 Uhr!
+
+Weitere Termine und Korrekturen finden sich im <a href="https://teamup.com/ks2d3e218f747a77d9">Kalender</a> !
 
 __Kontakt__
 
