@@ -22,12 +22,12 @@ Open Space jeden Dienstag ab 20:00 Uhr: Reinschnuppern, zuschauen, ausprobieren!
 
 Seriöser Vereinsabend jeden zweiten Mittwoch (gerade KW) um 20:00 Uhr!
 
-Das Spielezimmer - Spielerunde jeden Donnerstagabend ab 21:00 Uhr!
+<a href="https://schaffenburg.org/Spielzimmer">Das Spielezimmer - Spielerunde jeden Donnerstagabend ab 21:00 Uhr!</a>
 
-Linux User Group Aschaffenburg - jeden ersten Sonntag im Monat ab 19:00 Uhr!
+<a href="http://lug-ab.de/">Linux User Group Aschaffenburg - jeden ersten Sonntag im Monat ab 19:00 Uhr!</a>
 
 Weitere Termine und Korrekturen finden sich im <a href="https://teamup.com/ks2d3e218f747a77d9">Kalender</a> !
 
 __Kontakt__
 
-Haben wir Dein Interesse geweckt oder möchtest Du uns kennenlernen? Dazu bietet sich der Vereinsabend an. Unter unserer eMail Adresse kontakt@schaffenburg.de sind wir für Dich erreichbar.
+Haben wir Dein Interesse geweckt oder möchtest Du uns kennenlernen? Dazu bietet sich der Vereinsabend an. Unter unserer eMail Adresse <a href="mailto:kontakt@schaffenburg.de">kontakt@schaffenburg.de</a> sind wir für Dich erreichbar.
