@@ -26,7 +26,7 @@ Seriöser Vereinsabend jeden zweiten Mittwoch (gerade KW) um 20:00 Uhr!
 
 <a href="http://lug-ab.de/">Linux User Group Aschaffenburg - jeden ersten Sonntag im Monat ab 19:00 Uhr!</a>
 
-Weitere Termine und Korrekturen finden sich im <a href="https://teamup.com/ks2d3e218f747a77d9">Kalender</a> !
+Weitere Termine und Korrekturen finden sich im <a href="https://teamup.com/ks830c8eecebd3d922">Kalender</a> !
 
 __Kontakt__
 
