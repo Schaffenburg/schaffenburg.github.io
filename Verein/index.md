@@ -43,7 +43,7 @@ In einem weiteren, abgetrennten Arbeitsraum befindet sich die Werkbank für mech
 
 __Weitere Informationen__
 
-<a href="schaffenburg.org">Unser internes Wiki</a>
+<a href="https://schaffenburg.org">Unser internes Wiki</a>
 
 [Satzung](/files/satzung.pdf)
 
