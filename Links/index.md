@@ -11,7 +11,7 @@ __Schaffenburg Links__<br>
 <a href="https://twitter.com/schaffenburg_de" target="_blank">Twitter</a><br>
 <a href="http://github.com/Schaffenburg" target="_blank">Github</a><br>
 <a href="/irc/">IRC</a><br>
-<a href="http://schaffenburg.org" target="_blank">Wiki</a><br>
+<a href="http://wiki.schaffenburg.org" target="_blank">Wiki</a><br>
 <br>
 __Befreundete Vereine__<br>
 <a href="http://b04.de/" target="_blank">Funkamateure Aschaffenburg - B04</a><br>
